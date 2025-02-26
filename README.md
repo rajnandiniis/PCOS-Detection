@@ -1,7 +1,4 @@
-# PCOS-Detection
-Here’s a sample README.md file for a PCOS detection project. You can modify it as needed to suit your project's specifics:
 
-```markdown
 # PCOS Detection
 
 ## Overview
